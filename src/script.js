@@ -36,7 +36,7 @@ fontLoader.load(
 
     // Text
     const textGeometry = new TextGeometry(
-      'Penis',
+      "Hey Look Ma! I'm 3d!!",
       {
         font: font,
         size: 0.5,
